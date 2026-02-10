@@ -6,7 +6,7 @@
       "provenance": [],
       "gpuType": "T4",
       "authorship_tag": "ABX9TyPDSXvjihq+UBS39OLMHuT9",
-      "include_colab_link": true
+      "include_colab_link": True
     },
     "kernelspec": {
       "name": "python3",
